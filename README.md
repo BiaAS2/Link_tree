@@ -15,7 +15,7 @@ Mini Curso Primeiro Passos na web.
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="imagem Projeto" src="ImagemProjeto.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,23 +23,19 @@ Mini Curso Primeiro Passos na web.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
+- Git e Github
+- Visual studio code
 
-## 💻 Projeto
+## 💻 Material
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+Para acessar o material do nosso Mini curso acesse o link: [MATERIAL](https://drive.google.com/drive/folders/1IxCvApyy7kk2FIHWZGuwb4RnlipNzrgI?usp=sharing)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1223782952174124295). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
 
-Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Diogo e Beatriz  [Participe da nossa comunidade girls!](https://www.instagram.com/girls.intech/)
